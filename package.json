@@ -1,0 +1,24 @@
+{
+  "name": "document-depot",
+  "version": "0.1.0",
+  "description": "Simple document management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hschimke/document-depot.git"
+  },
+  "keywords": [
+    "document-management",
+    "documents"
+  ],
+  "author": "Henry Schimke",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hschimke/document-depot/issues"
+  },
+  "homepage": "https://github.com/hschimke/document-depot#readme",
+  "type": "module"
+}
